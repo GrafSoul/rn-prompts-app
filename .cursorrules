@@ -1,0 +1,7 @@
+Creating a universal application for collecting and storing AI Prompts using React Native, TypeScript, Tailwind CSS.
+The application should be universal and support various AI models such as GPT, Claude, Gemini and others.
+The application should be lightweight and fast, with good performance and optimized for mobile devices.
+The application should have a simple and intuitive interface so users can easily add, edit and use Prompts.
+
+When writing code, ensure 100% that it will work correctly.
+
